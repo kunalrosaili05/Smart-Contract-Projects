@@ -1,0 +1,74 @@
+{
+	"compiler": {
+		"version": "0.5.0+commit.1d4f565a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "b2",
+				"outputs": [
+					{
+						"name": "",
+						"type": "bytes2"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "setter",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "b3",
+				"outputs": [
+					{
+						"name": "",
+						"type": "bytes3"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"local.sol": "local"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"local.sol": {
+			"keccak256": "0x7b1fc48e5723100c72bc9fd4d7ee8cc130924bb73379015b30f60b8078891421",
+			"urls": [
+				"bzzr://5dfdc57601bed3107a4e35b674792b65d22b5947841e2255da8d0f5e55ec3fb6"
+			]
+		}
+	},
+	"version": 1
+}

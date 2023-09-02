@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "payEther",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"new.sol": "Ne"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"new.sol": {
+			"keccak256": "0x11db1711d6909fb833eba23dea8ee9867d8d5d58dde4805db74573be202baf4c",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://b452c53d5c0e0271962539f70e8cdca98c2728b75a1dc220e7d8d487310792aa",
+				"dweb:/ipfs/QmPXajaZLHNaPHj4k1iEqE1oNHWUHEwBBUHYzxbVMJq8BX"
+			]
+		}
+	},
+	"version": 1
+}
